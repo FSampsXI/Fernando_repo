@@ -1,0 +1,1 @@
+# ímpares: Receba uma lista de números como parâmetro e retrone uma lista com números ímpares
